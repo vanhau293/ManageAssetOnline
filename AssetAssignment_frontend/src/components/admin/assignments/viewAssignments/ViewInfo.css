@@ -1,0 +1,46 @@
+.view-information .ant-modal-close-x{
+    font-weight: bold;
+    font-size: 20px;
+    color: #cf2338;
+    margin-left: 40px;
+}
+
+
+
+.text-view-information {
+    vertical-align: middle;
+    display: inline-block;
+}
+.asset-code{
+    color: #8c8989;
+}
+.asset-name,.specification,.assigned-to,.assigned-by,.assigned-date,.state,.note{
+    padding-top: 10px;
+    color: #8c8989;
+}
+#data-asset-code,#data-asset-name,#data-specification,#data-assigned-to,#data-assigned-by,#data-assigned-date,#data-state,#data-note{
+    padding-left: 60px;
+}
+.note{
+    padding-bottom: 25px;
+}
+/*.note-view{*/
+/*    vertical-align: top;*/
+/*}*/
+
+#myDIV {
+    height:100px;
+    background-color:#FFFFFF;
+}
+.ex1 {
+    width: 436px;
+    height: 65px;
+    overflow:auto;
+    margin-bottom: 30px;
+}
+
+.ex2{
+    width: 389px;
+    height: 65px;
+    overflow:auto;
+}

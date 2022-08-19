@@ -1,0 +1,106 @@
+.form {
+    background-color: #FFF;
+    padding: 25px 94px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    color: white;
+
+    border: 1px solid gray;
+}
+
+.formContainer {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #eff1f5;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    height: 56px;
+    padding-top: 10px;
+    padding: 0px 54px;
+
+
+
+}
+
+.inputGroup {
+    display: inline-flex;
+    width: 100%;
+    align-items: center;
+
+
+
+}
+
+.text__label {
+    display: inline-flex;
+
+
+}
+
+.inputGroup1 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+
+}
+
+.formInput {
+    width: 100%;
+    margin: 10px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 5px;
+    /* font-family: 'Roboto'; sans-serif; */
+    color: black;
+    background-color: white;
+}
+
+.formSubmit {
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    color: white !important;
+    font-weight: bold;
+    font-size: 30px;
+    background: red;
+    border: 2px solid red;
+    /* fontFamily: 'Roboto'; sans-serif; */
+    cursor: pointer;
+
+}
+
+.formMarketing {
+    display: flex;
+    margin: 20px;
+    align-items: center;
+}
+
+.validationText {
+    margin: 0px;
+    font-size: 1em;
+    color: red;
+}
+
+.validContainer {
+    height: 20px;
+}
+
+

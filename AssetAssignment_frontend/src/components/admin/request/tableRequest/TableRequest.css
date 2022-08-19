@@ -1,0 +1,15 @@
+th.col_assetName_request{
+    width: 12% !important;
+}
+td.col_assetName_request{
+    width: 12% !important;
+}
+th.col_assignedTo, th.col_assignmentBy, th.col_assignmentDate , th.col_acceptedBy , th.col_requestBy{
+    width: 12%;
+}
+
+p.asset_name_col, p.assigned_to_col, p.assigned_by_col, p.assigned_date_col, p.state_col , p.request_by_col , p.assigned_Date_col {
+    border-bottom: 1.5px solid #8c8989;
+    margin-top: 4px;
+    padding-bottom: 2px;
+}

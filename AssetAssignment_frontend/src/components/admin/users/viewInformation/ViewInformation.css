@@ -1,0 +1,28 @@
+.view-information .ant-modal-close-x{
+    font-weight: bold;
+    font-size: 20px;
+    color: #cf2338;
+    margin-left: 40px;
+}
+.ant-modal-close:disabled{
+    /*width: 2px !important;*/
+    /*height: 2px !important;*/
+    display: block;
+}
+
+
+
+.text-view-information {
+    vertical-align: middle;
+    display: inline-block;
+}
+.satff-code{
+    color: #8c8989;
+}
+.full-name,.username,.day-of-birth,.gender,.join-date,.type,.location{
+    padding-top: 10px;
+    color: #8c8989;
+}
+#data-staffcode,#data-fullname,#data-username,#data-dayofbirth,#data-gender,#data-joindate,#data-type,#data-location{
+    padding-left: 60px;
+}

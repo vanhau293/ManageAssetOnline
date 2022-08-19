@@ -1,0 +1,31 @@
+.view-history{
+    width: 48% !important;
+}
+
+.view-history .ant-modal-close-x{
+    font-weight: bold;
+    font-size: 20px;
+    color: #cf2338;
+    margin-left: 40px;
+}
+.view-history .ant-modal-content{
+    right: 50px !important;
+}
+.ex4 {
+    width: 78%;
+    height: 125px;
+    overflow: auto;
+    margin-bottom: 30px;
+}
+.ex5{
+    width: 81%;
+    height: 65px;
+    overflow:auto;
+}
+.view-history .ant-modal-body{
+    padding-right: 0 !important;
+}
+#myDIV-asset {
+    height:fit-content;
+    background-color:#FFFFFF;
+}

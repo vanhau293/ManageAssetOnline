@@ -1,0 +1,41 @@
+
+.header{
+    background-color: #CF2338;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content:baseline;
+    align-items: center;
+    padding: 0.1rem;
+
+    
+
+}
+
+.header img{
+    width: 53px;
+    height: 55px;
+    background-color: white;
+    padding: 0.01rem;
+}
+
+.text {
+margin : 2px;
+width: 287px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}

@@ -1,0 +1,41 @@
+.modalConfirm .ant-modal-header{
+    text-align: left;
+}
+.modalConfirm .ant-modal-body{
+    text-align: center;
+    height: 60px;
+}
+.modalConfirm .ant-modal-footer{
+    text-align: center;
+    padding: 0 0 25px 0;
+}
+.modalConfirm .ant-modal-content {
+    width: fit-content;
+    top: 150px;
+    right: -170px;
+    position: relative;
+}
+.modalInformation .ant-modal-content {
+    width: fit-content;
+    top: 150px;
+    right: -170px;
+    position: relative;
+}
+.modalInformation .ant-modal-footer{
+    padding: 0 0 0 0;
+}
+.modalLogout .ant-modal-footer{
+    text-align: center;
+    padding: 0 0 25px 0;
+}
+.modalLogout .ant-modal-content{
+    width: 250px;
+    margin: 0 auto;
+}
+.modalLogout .ant-modal-body{
+    text-align: center;
+}
+.modalLogout .ant-modal-header{
+    text-align: left;
+    padding-left: 50px;
+}

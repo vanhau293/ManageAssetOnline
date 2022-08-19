@@ -1,0 +1,50 @@
+
+table {
+    margin-left: 25px;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+td.col_assignment {
+    text-align: left;
+    border-right: 10px solid white;
+    margin-right: 2rem;
+}
+td.col_assignment {
+    text-align: left;
+    /*border-right: 10px solid white;*/
+    /*width: 20%;*/
+}
+td.btn_col_assignment {
+    text-align: center;
+    border-right: 10px solid white;
+    width: 2%;
+}
+td.col_state{
+    width: 17% !important;
+}
+h.col_assignment {
+    text-align: left;
+    border-right: 10px solid white;
+    margin-right: 2rem;
+}
+th.col_no{
+    width: 5%;
+}
+th.col_assetCode{
+    width: 10%;
+}
+th.col_assignedTo, th.col_assignmentBy, th.col_assignmentDate{
+    width: 12%;
+}
+th.col_assetName{
+    width: 20%;
+}
+p.assetName_col, p.assignedTo_col, p.assignmentBy_col, p.assignmentDate_col, p.state_col {
+    border-bottom: 1.5px solid #8c8989;
+    margin-top: 4px;
+    padding-bottom: 2px;
+}
+
+
+

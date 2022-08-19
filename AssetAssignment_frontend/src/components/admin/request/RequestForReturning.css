@@ -1,0 +1,29 @@
+
+
+.dropdown-content-request ul{
+    padding-left: 10px !important;
+}
+.dropdown-toggle-state:hover .dropdown-content-request {
+    display: block;
+    width: 12.25rem;
+    background-color: #F5F5F5;
+    position: relative;
+    top: 3px;
+}
+.dropdown-content-request {
+    text-align: left ;
+    display: none;
+    border: 0.75px solid #B5B5B5;
+    width: 7rem;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    opacity: 1;
+}
+.dropdown-toggle-state:hover .dropdown-content {
+    display: block;
+    width: 6.95rem;
+    height: 12rem;
+    background-color: #F5F5F5;
+    position: relative;
+    top: 3px;
+}

@@ -1,0 +1,52 @@
+
+table {
+    margin-left: 25px;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+td.col_asset {
+    text-align: left;
+    border-right: 10px solid white;
+    margin-right: 2rem;
+}
+td.col_asset {
+    text-align: left;
+    /*border-right: 10px solid white;*/
+    /*width: 20%;*/
+}
+td.btn_col_assignment {
+    text-align: center;
+    border-right: 10px solid white;
+    width: 2%;
+}
+h.col_asset {
+    text-align: left;
+    border-right: 10px solid white;
+    margin-right: 2rem;
+}
+th.col_asset {
+    text-align: left;
+    border-right: 10px solid white;
+    margin-right: 2rem;
+}
+td.col_assetCode_asset{
+    width: 5% !important;
+}
+td.col_assetName{
+    width: 22% !important;
+}
+td.col_assetCategory{
+    width: 12% !important;
+}
+td.col_state{
+    width: 12% !important;
+}
+p.assetName_col, p.assignedTo_col, p.assignmentBy_col, p.assignmentDate_col, p.state_col {
+    border-bottom: 1.5px solid #8c8989;
+    margin-top: 4px;
+    padding-bottom: 2px;
+}
+
+
+
